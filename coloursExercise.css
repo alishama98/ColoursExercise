@@ -1,0 +1,71 @@
+/* Hexadecimal */
+h1 {
+    color: #ffffff;
+    /* Bouns 1 */
+    background-color: red;
+}
+
+/* Hexadecimal Shorthand */
+h2 {
+    color: #0f0;
+    /* Bouns 1 */
+    background-color: blue;
+}
+
+/* RGB */
+h3 {
+    color: rgb(255, 0, 0);
+    /* Bouns 1 */
+    background-color: azure;
+}  
+
+/* RGBA */
+h4 {
+  color: rgba(145, 200, 70, 0.7);
+  /* Bouns 1 */
+  background-color: turquoise;
+}
+
+/* Color Name */
+h5 {
+    color: maroon ;
+    /* Bouns 1 */
+    background-color: aqua;
+}
+
+/* Hexadecimal with Transparency */
+h6 {
+    color: #ff850088;
+    /* Bouns 1 */ 
+    background-color: aquamarine;
+}
+
+/* Hexadecimal with Transparency */
+p {
+   color:  #7777;
+   /* Bouns 1 */
+   background-color: #e8e8;
+}
+
+/* BOUNS */
+
+#one {
+    color: hotpink;
+}
+
+/* ol li [id="three"] {
+    background-color: peachpuff;
+} */
+
+/* #three {
+    background-color: peachpuff;
+} */
+
+li:last-child {
+    background-color: peachpuff;
+}
+
+.test {
+    border: 5px solid green;
+}
+
